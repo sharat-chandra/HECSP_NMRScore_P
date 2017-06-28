@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 23 16:36:52 2015
 
-"""
 
 #--------------------------------- linsys.py --------------------------------
 #  Contains routines for solving systems of linear equations.

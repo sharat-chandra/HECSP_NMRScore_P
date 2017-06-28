@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 23 16:33:08 2015
 
-@author: zhuoqinyu
-"""
 
 #-------------------------------- coords.py ---------------------------------
 #  Contains routines for transforming the coordinates of systems of particles

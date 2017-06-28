@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 23 16:34:59 2015
-
-@author: zhuoqinyu
-"""
 
 #-------------------------------- eigsys.py ---------------------------------
 #  Contains routines for solving eigenvalue problems.
